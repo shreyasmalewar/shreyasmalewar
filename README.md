@@ -1,5 +1,3 @@
-### Hi there 
-
 <!--
 **shreyasmalewar/shreyasmalewar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,25 +14,27 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm in Junior Year pursuing a CS Degree in India.
-### I love to code, read and connect. 
+#### I love to code, read and connect. 
 
-#### I am Into Machine Learning, Data Science, Java Development and currently focussing on Data Structures.
+#### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
+#### 🌱 I’m currently learning Data Structures and Java Development.
+
 
 #### You can get in touch with me here
 
 
 <br/>
 <a href="https://twitter.com/shreyasmalewar">
-  <img align="left" alt="Shreyas Malewar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="center" alt="Shreyas Malewar| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/shreyasmalewar">
-  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://t.me/shreyasmalewar">
-  <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+  <img align="center" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.instagram.com/shreyasmalewar/">
-  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="center" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
 
