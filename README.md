@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm in Junior Year pursuing a CS Degree in India.
+### Hi there 👋, I'm in Pre-Final Year pursuing a CS Degree in India.
 #### I love to code, read and connect. 
 
 #### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
