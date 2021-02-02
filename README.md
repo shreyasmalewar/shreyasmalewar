@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 #### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
 #### 🌱 I’m currently learning Data Structures and Java Development.
+#### ✨ Working on Vue and Quasar @root-kings
 
 
 #### You can get in touch with me here
