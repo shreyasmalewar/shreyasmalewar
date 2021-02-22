@@ -45,3 +45,4 @@ Here are some ideas to get you started:
 
 [![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=shreyasmalewar&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![image title](https://rushter.com/counter.svg) 
