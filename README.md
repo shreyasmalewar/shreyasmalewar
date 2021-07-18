@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm in Pre-Final Year pursuing a CS Degree in India.
+### Hi there 👋, I'm in Final Year pursuing a CS Degree in India.
 #### I love to code, read and connect. 
 
 #### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
-![image title](https://rushter.com/counter.svg) 
+![ProfileViews](https://komarev.com/ghpvc/?username=shreyasmalewar&label=Profile+Views&color=red)
 
-[![Github Stats By Anurag](https://github-readme-stats.vercel.app/api?username=shreyasmalewar&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=shreyasmalewar&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
