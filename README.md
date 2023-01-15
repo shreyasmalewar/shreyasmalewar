@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm in Final Year pursuing a CS Degree in India.
+### Hi there 👋, I'm a Programmer Analyst in Cognizant.
 #### I love to code, read and connect. 
 
 #### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
 #### 🌱 I’m currently learning Data Structures and Java Development.
-#### ✨ Working on Vue and Quasar @root-kings
+#### ✨ Working on React and Angular 
 
 
 #### You can get in touch with me here
