@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋, I'm a Programmer Analyst in Cognizant.
+### Hi there 👋, I'm a CS Grad Student at the University of Southern California.
 #### I love to code, read and connect. 
 
 #### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
-#### 🌱 I’m currently learning Data Structures and Java Development.
-#### ✨ Working on React and Angular 
+#### 🌱 I’m currently learning the analysis of algorithms and database systems.
+#### ✨ Working on Natural Language Processing
 
 
 #### You can get in touch with me here
