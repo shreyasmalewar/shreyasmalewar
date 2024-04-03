@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm a CS Grad Student at the University of Southern California.
-#### I love to code, read and connect. 
+#### I am working as a Research Assistant at Radiomics Lab, Norris Cancer Center, Keck School of Medicine USC 
 
-#### 🔭 I’ve worked on Pandas, Numpy, and Scikit Learn.
-#### 🌱 I’m currently learning the analysis of algorithms and database systems.
-#### ✨ Working on Natural Language Processing
+#### 🔭 I am interested in image segmentation problems.
+#### 🌱 I’m currently developing detection, localization, and segmentation algorithms for patients affected with metastatic prostate cancer.
+#### ✨ My aim is to devise and test transformer-based architectures in biomedical image processing.
 
 
 #### You can get in touch with me here
